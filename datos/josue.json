@@ -1,0 +1,33 @@
+
+[
+  {
+    "id": 1,
+    "nombre": "Perquín",
+    "region": "Ruta de Paz (Morazán)",
+    "municipio": "Perquín",
+    "categoria": "cultura",
+    "descripcion": "Destino turístico de Morazán rodeado de montañas y paisajes naturales. Es conocido por su importancia histórica durante el conflicto armado salvadoreño y por atractivos como el Museo de la Revolución y el Cerro de Perquín.",
+    "imagen": "img/destinos/perquin.jpg",
+    "precioDesde": null,
+    "horario": "Consultar horarios de los atractivos",
+    "comoLlegar": "Viajar hacia el departamento de Morazán y continuar por la carretera que conduce a Perquín.",
+    "lat": 13.95,
+    "lon": -88.1667,
+    "destacado": true
+  },
+  {
+    "id": 2,
+    "nombre": "Cacaopera",
+    "region": "Ruta de Paz (Morazán)",
+    "municipio": "Cacaopera",
+    "categoria": "cultura",
+    "descripcion": "Pueblo de Morazán reconocido por sus raíces indígenas kakawira, sus costumbres y tradiciones. Entre sus atractivos destaca el Museo Winakirika, dedicado a conservar y compartir el patrimonio cultural de la comunidad.",
+    "imagen": "img/destinos/cacaopera.jpg",
+    "precioDesde": null,
+    "horario": "Consultar horarios de los atractivos",
+    "comoLlegar": "Viajar hacia San Francisco Gotera, en Morazán, y continuar hacia el distrito de Cacaopera.",
+    "lat": 13.76667,
+    "lon": -88.08333,
+    "destacado": false
+  }
+]
