@@ -1,0 +1,48 @@
+
+  "lugares_turisticos": [
+    {
+      "id": 1,
+      "nombre": "Playa El Tunco",
+      "categoria": "Playas y aventura",
+      "ubicacion": {
+        "departamento": "La Libertad",
+        "municipio": "Tamanique",
+        "pais": "El Salvador"
+      },
+      "descripcion": "Playa El Tunco es uno de los destinos turísticos más conocidos de El Salvador, famoso por sus formaciones rocosas, sus hermosos atardeceres y sus excelentes olas para practicar surf. Es un lugar ideal para disfrutar del ambiente costero, la gastronomía local y la vida nocturna.",
+      "atractivos": [
+        "Surf",
+        "Atardeceres frente al mar",
+        "Formaciones rocosas",
+        "Restaurantes y gastronomía",
+        "Vida nocturna"
+      ],
+      "horario": "Acceso a la playa durante el día",
+      "precio": "Acceso a la playa generalmente gratuito; servicios y actividades con costo variable",
+      "seguridad": "Se recomienda respetar las indicaciones de los salvavidas, tener precaución con las corrientes marinas y utilizar protector solar.",
+      "imagen": "imagenes/playa_el_tunco.jpg",
+      "destacado": true
+    },
+        {
+      "id": 2,
+      "nombre": "Playa El Zonte",
+      "categoria": "Playas y ecoturismo",
+      "ubicacion": {
+        "departamento": "La Libertad",
+        "municipio": "Chiltiupán",
+        "pais": "El Salvador"
+      },
+      "descripcion": "Playa El Zonte es un destino costero reconocido por su ambiente tranquilo, sus paisajes naturales y sus condiciones para practicar surf. También destaca por su ambiente relajado, sus pequeños restaurantes y su atractivo turístico relacionado con el turismo sostenible.",
+      "atractivos": [
+        "Surf",
+        "Paisajes costeros",
+        "Caminatas por la playa",
+        "Restaurantes locales",
+        "Atardeceres"
+      ],
+      "horario": "Acceso a la playa durante el día",
+      "precio": "Acceso a la playa generalmente gratuito; servicios y actividades con costo variable",
+      "seguridad": "Se recomienda consultar las condiciones del mar antes de ingresar al agua, respetar las zonas de surf y seguir las recomendaciones locales.",
+      "imagen": "imagenes/playa_el_zonte.jpg",
+      "destacado": true
+    },
