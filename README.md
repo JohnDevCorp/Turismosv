@@ -4,7 +4,8 @@ Proyecto para fomentar el turismo tanto interno como externo en el salvador.
 Portal turístico de El Salvador · Proyecto integrador del curso Desarrollo Web Full Stack Junior.
 ## Equipo
 | Integrante | Usuario de GitHub | Rol (Fase 1) |
-|jonathan marroquin |JohnDevCorp | coordinador
+|---|---|---|
+|jonathan marroquin |JohnDevCorp | coordinador|
 |Eliseo Mendez|EliseoMndz|Produccion|
 |Carlos Mendez|[@CrlsMenz]|Desarrollo|
 | ... | ... | ... |
