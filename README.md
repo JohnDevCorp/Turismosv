@@ -32,12 +32,14 @@ Portal turístico de El Salvador · Proyecto integrador del curso Desarrollo Web
 
 ## Mapa del sitio
 
+```
 Inicio (index.html)
 ├── Destinos (destinos.html)
 │ └── Detalle de un destino (destino.html)
 ├── Favoritos (favoritos.html)
 ├── Planifica tu viaje (planifica.html)
 └── Nosotros (nosotros.html)
+```
 
 ## Fuentes de información y fotografías
 - ...
