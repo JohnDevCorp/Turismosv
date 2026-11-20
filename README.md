@@ -1,26 +1,62 @@
 # Turismosv
 Proyecto para fomentar el turismo tanto interno como externo en el salvador.  
+
 # <Nombre del portal>
 Portal turístico de El Salvador · Proyecto integrador del curso Desarrollo Web Full Stack Junior.
+
 ## Equipo
 | Integrante | Usuario de GitHub | Rol (Fase 1) |
 |---|---|---|
-|jonathan marroquin |JohnDevCorp | coordinador|
+|jonathan marroquin|JohnDevCorp|coordinador|
 |Eliseo Mendez|EliseoMndz|Produccion|
-|Carlos Mendez|[@CrlsMenz]|Desarrollo|
-|Brayan Guerra| brayanantonio70 | Desarrolador|
-| ... | ... | ... |
+|Carlos Mendez|CrlsMenz|Desarrollo|
+|Brayan Guerra|brayanantonio70|Desarrolador|
+|Josue Cruz|emanuel56411-hue|Diseñador|
+
 ## Usuario objetivo
+
 ¿Quién visitará el sitio? Edad, intereses, de dónde viene, qué dispositivo usa.
+
 ## Objetivo del sitio
+
 ¿Qué debe lograr el portal?
-## Requerimientos funcionales7
+
+## Requerimientos funcionales
+
 - RF1: El sitio debe mostrar un catálogo de al menos 14 destinos, filtrable por región y categoría.
 - RF2: ...
+
 ## Requerimientos no funcionales
+
 - RNF1: El sitio debe verse correctamente en celulares.
 - RNF2: ...
+
 ## Mapa del sitio
-(imagen o lista)
+
+```
+Inicio (index.html)
+├── Destinos (destinos.html)
+│ └── Detalle de un destino (destino.html)
+├── Favoritos (favoritos.html)
+├── Planifica tu viaje (planifica.html)
+└── Nosotros (nosotros.html)
+```
+## Estructura del proyecto
+
+```
+explora-sv/
+├── index.html
+├── destinos.html
+├── destino.html
+├── favoritos.html
+├── planifica.html
+├── nosotros.html
+├── datos/
+│ └── destinos.json
+├── img/
+│ └── destinos/
+└── README.md
+```
+
 ## Fuentes de información y fotografías
 - ...
