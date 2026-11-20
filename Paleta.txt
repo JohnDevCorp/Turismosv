@@ -1,0 +1,8 @@
+#12263f – Azul marino noche
+#41566f – Azul pizarra
+#eef3f6 – Gris hielo
+#fbfdfe – Blanco azulado
+#cbd8e1 – Gris niebla
+#d6e6ee – Celeste mar
+#ff7a3d – Naranja sol
+#c3d0db – Gris plata
