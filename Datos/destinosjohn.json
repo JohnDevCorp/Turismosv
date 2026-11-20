@@ -1,0 +1,63 @@
+[
+ {
+ "id": 1,
+ "nombre": "Volcan Ilamatepec",
+ "region": "occidente",
+ "municipio": "Santa Ana",
+ "categoria": "volcanes",
+ "descripcion": "el volcan mas alto de el salvador",
+ "imagen": "img/destinos/ilamatepec.jpg",
+ "precioDesde": 10,
+ "horario": "8:00 a. m. – 4:00 p. m.",
+ "comoLlegar": "En ruta 216 o propio",
+ "lat": 13.0000,
+ "lon": -89.0000,
+ "destacado": true
+ }
+ {
+ "id": 2,
+ "nombre": "Lago de coatepeque",
+ "region": "occidente",
+ "municipio": "Santa Ana",
+ "categoria": "lagos",
+ "descripcion": "El lago más bonito de occidente",
+ "imagen": "img/destinos/lagocoatepeque.jpg",
+ "precioDesde": 5,
+ "horario": "8:00 a. m. – 4:00 p. m.",
+ "comoLlegar": "Indicaciones breves.",
+ "lat": 13.0000,
+ "lon": -89.0000,
+ "destacado": true
+ }
+ 
+  {
+ "id": 3,
+ "nombre": "Nombre del destino",
+ "region": "Ruta de las Flores",
+ "municipio": "Municipio",
+ "categoria": "naturaleza",
+ "descripcion": "Dos o tres oraciones atractivas y verificadas.",
+ "imagen": "img/destinos/nombre-del-destino.jpg",
+ "precioDesde": 5,
+ "horario": "8:00 a. m. – 4:00 p. m.",
+ "comoLlegar": "Indicaciones breves.",
+ "lat": 13.0000,
+ "lon": -89.0000,
+ "destacado": true
+ }
+  {
+ "id": 4,
+ "nombre": "Nombre del destino",
+ "region": "Ruta de las Flores",
+ "municipio": "Municipio",
+ "categoria": "naturaleza",
+ "descripcion": "Dos o tres oraciones atractivas y verificadas.",
+ "imagen": "img/destinos/nombre-del-destino.jpg",
+ "precioDesde": 5,
+ "horario": "8:00 a. m. – 4:00 p. m.",
+ "comoLlegar": "Indicaciones breves.",
+ "lat": 13.0000,
+ "lon": -89.0000,
+ "destacado": true
+ }
+]
