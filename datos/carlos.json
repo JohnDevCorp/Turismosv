@@ -1,0 +1,63 @@
+
+[
+  {
+    "id": 11,
+    "nombre": "Parque Nacional El Boquerón",
+    "region": "San Salvador y alrededores",
+    "municipio": "Santa Tecla / San Salvador",
+    "categoria": "naturaleza",
+    "descripcion": "Ubicado en la cima del volcán de San Salvador a más de 1,800 metros de altura, este parque cuenta con un impresionante cráter de 5 kilómetros de diámetro y 558 metros de profundidad. Sus senderos rodeados de clima fresco y abundante vegetación permiten observar un pequeño cono volcánico interior llamado 'Boqueroncito'.",
+    "imagen": "img/destinos/el-boqueron.jpg",
+    "precioDesde": 2,
+    "horario": "8:00 a. m. – 5:00 p. m.",
+    "comoLlegar": "Desde San Salvador, sube por el Paseo General Escalón hacia el cantón El Carmen o toma la carretera hacia Santa Tecla desviándote en el redondel El Platillo rumbo al volcán.",
+    "lat": 13.7351,
+    "lon": -89.2795,
+    "destacado": true
+  },
+  {
+    "id": 12,
+    "nombre": "Sitio Arqueológico Joya de Cerén",
+    "region": "Valle de Zapotitán",
+    "municipio": "San Juan Opico",
+    "categoria": "cultura",
+    "descripcion": "Conocido como la 'Pompeya de América' y declarado Patrimonio de la Humanidad por la UNESCO, este asentamiento agrícola maya quedó intacto bajo cenizas volcánicas alrededor del año 600 d. C. Sus estructuras de barro ofrecen una mirada única a la vida cotidiana, la gastronomía y las costumbres de los antiguos pobladores mesoamericanos.",
+    "imagen": "img/destinos/joya-de-ceren.jpg",
+    "precioDesde": 1,
+    "horario": "9:00 a. m. – 4:00 p. m.",
+    "comoLlegar": "Toma la carretera Panamericana (CA-1) desde San Salvador hacia Santa Ana; a la altura del kilómetro 32, gira hacia San Juan Opico sobre la carretera a Quezaltepeque hasta el kilómetro 36.",
+    "lat": 13.8278,
+    "lon": -89.3561,
+    "destacado": true
+  },
+  {
+    "id": 13,
+    "nombre": "Playa El Cuco",
+    "region": "Zona Oriental",
+    "municipio": "Chirilagua",
+    "categoria": "playa",
+    "descripcion": "Una de las playas más extensas y populares del oriente salvadoreño, famosa por su arena volcánica oscura, oleaje suave y amplias zonas planas ideales para caminar o nadar. Cuenta con una variada oferta de ranchos, restaurantes de mariscos frescos y acceso cercano a reconocidos puntos de surf como Las Flores.",
+    "imagen": "img/destinos/playa-el-cuco.jpg",
+    "precioDesde": 0,
+    "horario": "Abierto las 24 horas",
+    "comoLlegar": "Desde San Salvador, toma la carretera del Litoral (CA-2) hacia el oriente pasando por Usulután hasta el desvío El Delirio, luego sigue la señalización rumbo a Chirilagua y El Cuco.",
+    "lat": 13.1725,
+    "lon": -88.1053,
+    "destacado": true
+  },
+  {
+    "id": 14,
+    "nombre": "Islas del Golfo de Fonseca",
+    "region": "Zona Oriental",
+    "municipio": "La Unión / Meanguera del Golfo",
+    "categoria": "naturaleza",
+    "descripcion": "Este archipiélago de origen volcánico incluye joyas como Meanguera del Golfo, Conchagüita y Zacatillo, rodeadas de aguas tranquilas, manglares y playas rústicas. Es un destino ideal para realizar recorridos en lancha, disfrutar de miradores con vistas panorámicas hacia Honduras y Nicaragua, y degustar mariscos locales.",
+    "imagen": "img/destinos/islas-del-golfo.jpg",
+    "precioDesde": 15,
+    "horario": "7:00 a. m. – 5:00 p. m.",
+    "comoLlegar": "Viaja por la carretera Panamericana (CA-1) o del Litoral (CA-2) hasta la ciudad de La Unión, y aborda una lancha turística desde el muelle municipal Los Coquitos o el embarcadero de Punta Chiquirín.",
+    "lat": 13.1869,
+    "lon": -87.7128,
+    "destacado": true
+  }
+]
