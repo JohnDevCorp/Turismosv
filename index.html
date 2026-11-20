@@ -6,15 +6,16 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Turismosv</title>
     <meta name="description" content="...">
-    <style> 
-        nav{
-            background-color:#12263f ;
+    <style>
+        nav {
+            background-color: #12263f;
         }
-        a{
+
+        a {
             color: white;
         }
-        .navbar
-        {
+
+        .navbar {
             padding: 0;
             display: flex;
             justify-content: space-between;
@@ -22,66 +23,98 @@
             padding: 15px 30px;
 
         }
-        .nav-links
-        {
-            
+
+        .nav-links {
+
             text-decoration: none;
-list-style: none;
-display: flex;
-gap: 25px;
-margin: 0;
-padding: 0;
+            list-style: none;
+            display: flex;
+            gap: 25px;
+            margin: 0;
+            padding: 0;
         }
-        a
-        {
+
+        a {
             text-decoration: none;
         }
-        .logo
-        {
-font-size: 25px;
+
+        .logo {
+            font-size: 25px;
         }
-        .header
-        {
+
+        .header {
             background-color: #12263f;
             color: #ffffff;
         }
-        h1{
+
+        h1 {
             color: white;
-    
+
         }
-        
+        .buscador .fila{
+            display: flex;
+             width: 100%;
+      max-width: 440px;
+    gap: 8px;
+   background-color: white;
+    padding: 8px;
+    border-radius: 14px;
+    
+
+        }
+
+        .boton {
+background-color: #12263f;
+border-radius: 5px;
+        }
+        .fila{
+display: flex;
+    gap: 8px;
+    background: var(--blanco);
+    padding: 8px;
+    border-radius: 14px;
+
+        }
+        .search{
+            border-style: none;
+        }
     </style>
 </head>
 
 <body>
 
     <div class="header">
-    <header>
+        <header>
 
-        <nav class="navbar">
-            <a href="index.html" class="logo">Inicio</a>
-<ul class="nav-links">
- <li><a href="destinos.html">Destinos</a></li>
- <li><a href="favoritos.html">Favoritos</a></li>
- <li><a href="planifica.html">Planifica tu viaje</a></li>
- <li><a href="nosotros.html">Nosotros</a></li>
- </ul>
-        </nav>
+            <nav class="navbar">
+                <a href="index.html" class="logo">Inicio</a>
+                <ul class="nav-links">
+                    <li><a href="destinos.html">Destinos</a></li>
+                    <li><a href="favoritos.html">Favoritos</a></li>
+                    <li><a href="planifica.html">Planifica tu viaje</a></li>
+                    <li><a href="nosotros.html">Nosotros</a></li>
+                </ul>
+            </nav>
+            <div>
+        </header>
         <div>
-    </header>
-    <h1>Tu guia para recorrer las 7 regiones de El Salvador</h1>
-    <p>Siete regiones y catorce destinos para empezar, de las cascadas de la Ruta de las Flores a las playas del Golfo de Fonseca.</p>
-  <form class="buscador" role="search" action="destino.html" method="get">
-    <label for="q">Busca algun destino o categoria en la que te encuentres interesado</label>
-    <div class="bar">
-        <input type="search" placeholder="Busca tu destino ideal">
-    </div>
-  </form>
+            <h1>Tu guia para recorrer las 7 regiones de El Salvador</h1>
+            <p>Siete regiones y catorce destinos para empezar, de las cascadas de la Ruta de las Flores a las playas del
+                Golfo de Fonseca.</p>
+            <form class="buscador" role="search" action="destino.html" method="get">
+                <label for="q">Busca algun destino o categoria en la que te encuentres interesado</label>
+        </div>
+        <div class="fila">
+            <input type="search" placeholder="Busca tu destino ideal">
+            <button class="boton" type="submit">Buscar</button>
+        </div>
+        </form>
+        <p>La funcion se activara al...</p>
+        <div>
+            <button class="boton-planificar" href="planifica.html">Planifica tu viaje</button>
+        </div>
 
 
-    </div>
-    </div>
-    
     <footer>
         <p>&copy; 2026 turismosv · Proyecto del curso Desarrollo Web Full Stack Junior</p>
     </footer>
