@@ -7,7 +7,7 @@ Portal turístico de El Salvador · Proyecto integrador del curso Desarrollo Web
 |---|---|---|
 |jonathan marroquin |JohnDevCorp | coordinador|
 |Eliseo Mendez|EliseoMndz|Produccion|
-
+|Carlos Mendez|[@CrlsMenz]|Desarrollo|
 | ... | ... | ... |
 ## Usuario objetivo
 ¿Quién visitará el sitio? Edad, intereses, de dónde viene, qué dispositivo usa.
