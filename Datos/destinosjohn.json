@@ -1,0 +1,63 @@
+[
+ {
+ "id": 1,
+ "nombre": "Volcan Ilamatepec",
+ "region": "occidente",
+ "municipio": "Santa Ana",
+ "categoria": "volcanes",
+ "descripcion": "el volcan mas alto de el salvador",
+ "imagen": "img/destinos/ilamatepec.jpg",
+ "precioDesde": 10,
+ "horario": "8:00 a. m. – 4:00 p. m.",
+ "comoLlegar": "En ruta 216 o propio",
+ "lat": 13.0000,
+ "lon": -89.0000,
+ "destacado": true
+ }
+ {
+ "id": 2,
+ "nombre": "Lago de coatepeque",
+ "region": "occidente",
+ "municipio": "Santa Ana",
+ "categoria": "lagos",
+ "descripcion": "El lago más bonito de occidente",
+ "imagen": "img/destinos/lagocoatepeque.jpg",
+ "precioDesde": 10,
+ "horario": "7:00 a. m. – 9:00 p. m.",
+ "comoLlegar": "Indicaciones breves.",
+ "lat": 13.0000,
+ "lon": -89.0000,
+ "destacado": true
+ }
+ 
+  {
+ "id": 3,
+ "nombre": "nahizalco",
+ "region": "occidente",
+ "municipio": "Sonsonate",
+ "categoria": "pueblomagico",
+ "descripcion": "pueblo magico con excelente gastronomia",
+ "imagen": "img/destinos/nahuizalco.jpg",
+ "precioDesde": 12,
+ "horario": "8:00 a. m. – 11:00 p. m.",
+ "comoLlegar": "Indicaciones breves.",
+ "lat": 13.0000,
+ "lon": -89.0000,
+ "destacado": true
+ }
+  {
+ "id": 4,
+ "nombre": "ataco",
+ "region": "Ruta de las Flores",
+ "municipio": "Sonsonate",
+ "categoria": "pueblomagico",
+ "descripcion": "pueblo magico para disfrutar en familia",
+ "imagen": "img/destinos/ataco.jpg",
+ "precioDesde": 15,
+ "horario": "8:00 a. m. – 10:00 p. m.",
+ "comoLlegar": "Indicaciones breves.",
+ "lat": 13.0000,
+ "lon": -89.0000,
+ "destacado": true
+ }
+]

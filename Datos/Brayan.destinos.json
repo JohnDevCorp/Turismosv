@@ -1,0 +1,97 @@
+{
+  "lugares_turisticos": [
+    {
+      "id": 1,
+      "nombre": "Playa El Tunco",
+      "categoria": "Playas y aventura",
+      "ubicacion": {
+        "departamento": "La Libertad",
+        "municipio": "Tamanique",
+        "pais": "El Salvador"
+      },
+      "descripcion": "Playa El Tunco es uno de los destinos turísticos más conocidos de El Salvador, famoso por sus formaciones rocosas, sus hermosos atardeceres y sus excelentes olas para practicar surf. Es un lugar ideal para disfrutar del ambiente costero, la gastronomía local y la vida nocturna.",
+      "atractivos": [
+        "Surf",
+        "Atardeceres frente al mar",
+        "Formaciones rocosas",
+        "Restaurantes y gastronomía",
+        "Vida nocturna"
+      ],
+      "horario": "Acceso a la playa durante el día",
+      "precio": "Acceso a la playa generalmente gratuito; servicios y actividades con costo variable",
+      "seguridad": "Se recomienda respetar las indicaciones de los salvavidas, tener precaución con las corrientes marinas y utilizar protector solar.",
+      "imagen": "imagenes/playa_el_tunco.jpg",
+      "destacado": true
+    },
+        {
+      "id": 2,
+      "nombre": "Playa El Zonte",
+      "categoria": "Playas y ecoturismo",
+      "ubicacion": {
+        "departamento": "La Libertad",
+        "municipio": "Chiltiupán",
+        "pais": "El Salvador"
+      },
+      "descripcion": "Playa El Zonte es un destino costero reconocido por su ambiente tranquilo, sus paisajes naturales y sus condiciones para practicar surf. También destaca por su ambiente relajado, sus pequeños restaurantes y su atractivo turístico relacionado con el turismo sostenible.",
+      "atractivos": [
+        "Surf",
+        "Paisajes costeros",
+        "Caminatas por la playa",
+        "Restaurantes locales",
+        "Atardeceres"
+      ],
+      "horario": "Acceso a la playa durante el día",
+      "precio": "Acceso a la playa generalmente gratuito; servicios y actividades con costo variable",
+      "seguridad": "Se recomienda consultar las condiciones del mar antes de ingresar al agua, respetar las zonas de surf y seguir las recomendaciones locales.",
+      "imagen": "imagenes/playa_el_zonte.jpg",
+      "destacado": true
+    },
+{
+      "id": 3,
+      "nombre": "Lago Suchitlán",
+      "categoria": "Naturaleza y cultura",
+      "ubicacion": {
+        "departamento": "Cuscatlán",
+        "municipio": "Suchitoto",
+        "pais": "El Salvador"
+      },
+      "descripcion": "El Lago Suchitlán es un importante atractivo natural de El Salvador, conocido por sus paisajes, sus islas y su diversidad de aves. Es un lugar ideal para realizar paseos en lancha, observar la naturaleza y conocer las comunidades que viven alrededor del lago.",
+      "atractivos": [
+        "Paseos en lancha",
+        "Observación de aves",
+        "Paisajes naturales",
+        "Islas",
+        "Fotografía de naturaleza"
+      ],
+      "horario": "Consultar horarios de los operadores turísticos",
+      "precio": "Variable según el recorrido y las actividades",
+      "seguridad": "Se recomienda utilizar chaleco salvavidas durante los paseos en lancha, seguir las indicaciones de los operadores y protegerse del sol.",
+      "imagen": "imagenes/lago_suchitlan.jpg",
+      "destacado": true
+    },
+    {
+      "id": 4,
+      "nombre": "La Palma",
+      "categoria": "Cultura y turismo rural",
+      "ubicacion": {
+        "departamento": "Chalatenango",
+        "municipio": "La Palma",
+        "pais": "El Salvador"
+      },
+      "descripcion": "La Palma es un pintoresco municipio salvadoreño reconocido por su riqueza artística y cultural. Sus calles y establecimientos destacan por los coloridos diseños inspirados en la naturaleza y las tradiciones locales. Es un destino ideal para conocer el arte salvadoreño, adquirir artesanías y disfrutar de un ambiente acogedor.",
+      "atractivos": [
+        "Artesanías tradicionales",
+        "Pinturas coloridas",
+        "Talleres de arte",
+        "Cultura local",
+        "Paisajes montañosos",
+        "Gastronomía tradicional"
+      ],
+      "horario": "Consultar horarios de los talleres y establecimientos",
+      "precio": "Acceso al municipio gratuito; artesanías y actividades con costo variable",
+      "seguridad": "Se recomienda respetar las costumbres de la comunidad, cuidar las pertenencias personales y consultar las condiciones de las rutas de acceso.",
+      "imagen": "imagenes/la_palma.jpg",
+      "destacado": true
+    }
+  ]
+}
