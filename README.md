@@ -7,14 +7,13 @@ Portal turístico de El Salvador · Proyecto integrador del curso Desarrollo Web
 |---|---|---|
 |jonathan marroquin |JohnDevCorp | coordinador|
 |Eliseo Mendez|EliseoMndz|Produccion|
-|Carlos Mendez|CrlsMenz|Desarrollo|
-| Josue Cruz | emanuel56411-hue | Diseñador |
+|Carlos Mendez|[@CrlsMenz]|Desarrollo|
 | ... | ... | ... |
 ## Usuario objetivo
 ¿Quién visitará el sitio? Edad, intereses, de dónde viene, qué dispositivo usa.
 ## Objetivo del sitio
 ¿Qué debe lograr el portal?
-## Requerimientos funcionales
+## Requerimientos funcionales7
 - RF1: El sitio debe mostrar un catálogo de al menos 14 destinos, filtrable por región y categoría.
 - RF2: ...
 ## Requerimientos no funcionales
