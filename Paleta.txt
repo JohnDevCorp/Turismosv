@@ -6,3 +6,12 @@
 #d6e6ee – Celeste mar
 #ff7a3d – Naranja sol
 #c3d0db – Gris plata
+
+
+<ul>
+ <li><a href="index.html">Inicio</a></li>
+ <li><a href="destinos.html">Destinos</a></li>
+ <li><a href="favoritos.html">Favoritos</a></li>
+ <li><a href="planifica.html">Planifica tu viaje</a></li>
+ <li><a href="nosotros.html">Nosotros</a></li>
+ </ul>
