@@ -5,10 +5,10 @@ Portal turístico de El Salvador · Proyecto integrador del curso Desarrollo Web
 ## Equipo
 | Integrante | Usuario de GitHub | Rol (Fase 1) |
 |---|---|---|
-|jonathan marroquin |JohnDevCorp | coordinador|
+|jonathan marroquin|JohnDevCorp|coordinador|
 |Eliseo Mendez|EliseoMndz|Produccion|
-|Carlos Mendez|[@CrlsMenz]|Desarrollo|
-|Brayan Guerra| brayanantonio70 | Desarrolador|
+|Carlos Mendez|CrlsMenz|Desarrollo|
+|Brayan Guerra|brayanantonio70|Desarrolador|
 | ... | ... | ... |
 ## Usuario objetivo
 ¿Quién visitará el sitio? Edad, intereses, de dónde viene, qué dispositivo usa.
