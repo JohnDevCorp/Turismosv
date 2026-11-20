@@ -1,5 +1,6 @@
 # Turismosv
 Proyecto para fomentar el turismo tanto interno como externo en el salvador.  
+
 # <Nombre del portal>
 Portal turístico de El Salvador · Proyecto integrador del curso Desarrollo Web Full Stack Junior.
 
@@ -39,6 +40,22 @@ Inicio (index.html)
 ├── Favoritos (favoritos.html)
 ├── Planifica tu viaje (planifica.html)
 └── Nosotros (nosotros.html)
+```
+## Estructura del proyecto
+
+```
+explora-sv/
+├── index.html
+├── destinos.html
+├── destino.html
+├── favoritos.html
+├── planifica.html
+├── nosotros.html
+├── datos/
+│ └── destinos.json
+├── img/
+│ └── destinos/
+└── README.md
 ```
 
 ## Fuentes de información y fotografías
