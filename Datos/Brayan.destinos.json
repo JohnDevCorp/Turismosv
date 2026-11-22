@@ -9,6 +9,12 @@
         "municipio": "Tamanique",
         "pais": "El Salvador"
       },
+      "coordenadas": {
+    "latitud": 13.492222,
+    "longitud": -89.381389
+  },
+  "formato_coordenadas": "WGS84",
+  "google_maps": "https://www.google.com/maps?q=13.492222,-89.381389",
       "descripcion": "Playa El Tunco es uno de los destinos turísticos más conocidos de El Salvador, famoso por sus formaciones rocosas, sus hermosos atardeceres y sus excelentes olas para practicar surf. Es un lugar ideal para disfrutar del ambiente costero, la gastronomía local y la vida nocturna.",
       "atractivos": [
         "Surf",
@@ -23,7 +29,7 @@
       "imagen": "imagenes/playa_el_tunco.jpg",
       "destacado": true
     },
-        {
+    {
       "id": 2,
       "nombre": "Playa El Zonte",
       "categoria": "Playas y ecoturismo",
@@ -31,6 +37,10 @@
         "departamento": "La Libertad",
         "municipio": "Chiltiupán",
         "pais": "El Salvador"
+      },
+      "coordenadas": {
+        "latitud": 13.49494,
+        "longitud": -89.44131
       },
       "descripcion": "Playa El Zonte es un destino costero reconocido por su ambiente tranquilo, sus paisajes naturales y sus condiciones para practicar surf. También destaca por su ambiente relajado, sus pequeños restaurantes y su atractivo turístico relacionado con el turismo sostenible.",
       "atractivos": [
@@ -46,7 +56,7 @@
       "imagen": "imagenes/playa_el_zonte.jpg",
       "destacado": true
     },
-{
+    {
       "id": 3,
       "nombre": "Lago Suchitlán",
       "categoria": "Naturaleza y cultura",
@@ -55,6 +65,13 @@
         "municipio": "Suchitoto",
         "pais": "El Salvador"
       },
+      
+  "coordenadas": {
+    "latitud": 14.000000,
+    "longitud": -89.030556
+  },
+  "formato_coordenadas": "WGS84",
+  "google_maps": "https://www.google.com/maps?q=14.000000,-89.030556",
       "descripcion": "El Lago Suchitlán es un importante atractivo natural de El Salvador, conocido por sus paisajes, sus islas y su diversidad de aves. Es un lugar ideal para realizar paseos en lancha, observar la naturaleza y conocer las comunidades que viven alrededor del lago.",
       "atractivos": [
         "Paseos en lancha",
@@ -78,6 +95,12 @@
         "municipio": "La Palma",
         "pais": "El Salvador"
       },
+      "coordenadas": {
+    "latitud": 14.317222,
+    "longitud": -89.173611
+  },
+  "formato_coordenadas": "WGS84",
+  "google_maps": "https://www.google.com/maps?q=14.317222,-89.173611",
       "descripcion": "La Palma es un pintoresco municipio salvadoreño reconocido por su riqueza artística y cultural. Sus calles y establecimientos destacan por los coloridos diseños inspirados en la naturaleza y las tradiciones locales. Es un destino ideal para conocer el arte salvadoreño, adquirir artesanías y disfrutar de un ambiente acogedor.",
       "atractivos": [
         "Artesanías tradicionales",
