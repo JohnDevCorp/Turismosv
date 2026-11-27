@@ -1,0 +1,71 @@
+
+/* Estilos generales de TurismoSV */
+
+:root {
+    --azul-oscuro: #12263f;
+    --blanco: #ffffff;
+}
+
+/* Barra de navegación */
+
+nav {
+    background-color: var(--azul-oscuro);
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px 30px;
+}
+
+.nav-links {
+    list-style: none;
+    display: flex;
+    gap: 25px;
+    margin: 0;
+    padding: 0;
+}
+
+.navbar a {
+    color: var(--blanco);
+    text-decoration: none;
+}
+
+.logo {
+    font-size: 25px;
+}
+
+/* Encabezado de la página principal */
+
+.header {
+    background-color: var(--azul-oscuro);
+    color: var(--blanco);
+}
+
+.header h1 {
+    color: var(--blanco);
+}
+
+/* Buscador de destinos */
+
+.buscador .fila {
+    display: flex;
+    width: 100%;
+    max-width: 440px;
+    gap: 8px;
+    background-color: var(--blanco);
+    padding: 8px;
+    border-radius: 14px;
+}
+
+.search {
+    border-style: none;
+}
+
+/* Botón del buscador */
+
+.boton {
+    background-color: var(--azul-oscuro);
+    border-radius: 5px;
+}
